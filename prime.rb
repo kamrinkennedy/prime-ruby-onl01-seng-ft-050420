@@ -2,7 +2,7 @@
 def prime?(integer)
   # There are no prime numbers lower than the number '2'
   if integer <= 1 
-    return false 
-  else
-  
+    return false
+  end
+  if 
 end

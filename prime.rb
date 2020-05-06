@@ -3,6 +3,7 @@ def prime?(integer)
   # There are no prime numbers lower than the number '2'
   if integer < 2 
     false 
-  elsif 
+  elsif integer == 2 || integer == 3
+    true
   
 end
